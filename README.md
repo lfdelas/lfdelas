@@ -4,7 +4,6 @@
 - 💞️ Procuro colaborar...com os estudos
 - 📫 luis.jack@escola.pr.gov.br
 
-<!---
-lfdelas/lfdelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+sou estudante do primeiro ano A
+
+
